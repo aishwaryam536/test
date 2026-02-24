@@ -6,7 +6,6 @@ This project analyzes sales data to identify trends, profit performance, and reg
 ## 🛠 Tools Used
 - Power BI
 - Excel
-- DAX
 - Power Query
 - Data Modeling
 
