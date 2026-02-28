@@ -1,5 +1,9 @@
 # Sales Analysis Dashboard - Power BI Project
 
+
+## 🎯 Objective
+To build an interactive business dashboard that helps in understanding sales performance and customer trends.
+
 ## 📌 Project Overview
 This project analyzes sales data to identify trends, profit performance, and regional insights using Power BI.
 
@@ -23,8 +27,6 @@ This project analyzes sales data to identify trends, profit performance, and reg
 - Technology category generated highest profit
 - Consumer segment contributed highest sales
 
-## 🎯 Objective
-To build an interactive business dashboard that helps in understanding sales performance and customer trends.
 
 ---
 
